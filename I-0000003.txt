@@ -1,0 +1,18 @@
+								ABC COMPANY
+Invoice - I-0000003
+2022/07/08
+
+CUSTOMER NAME - tinul
+CUSTOMER ID   - C-0000001
+
+**************************************************************************************************************
+PRODUCT NAME	PRODUCT ID		UNITS		PRICE PER PRODUCT		TOTAL PRICE PER PRODUCT		DISCOUNT
+coco-cola			P-0000003		4		120.0				480.0					0.0
+pepci			P-0000004		7		120.0				840.0					4.0
+
+SUBTOTAL    - 1320.0
+TOTAL PRICE - 1287.6924
+PAID BY     - Cash
+**************************************************************************************************************
+
+THANK YOU FOR SHOPPING WITH US

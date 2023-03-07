@@ -1,0 +1,17 @@
+								ABC COMPANY
+Invoice - I-0000001
+2022/07/08
+
+CUSTOMER NAME - tinul
+CUSTOMER ID   - C-0000001
+
+**************************************************************************************************************
+PRODUCT NAME	PRODUCT ID		UNITS		PRICE PER PRODUCT		TOTAL PRICE PER PRODUCT		DISCOUNT
+fanta			P-0000002		6		120.0				720.0					4.0
+
+SUBTOTAL    - 720.0
+TOTAL PRICE - 692.30774
+PAID BY     - Cash
+**************************************************************************************************************
+
+THANK YOU FOR SHOPPING WITH US
